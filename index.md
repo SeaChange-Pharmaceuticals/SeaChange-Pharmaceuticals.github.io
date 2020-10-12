@@ -1,10 +1,3 @@
-![logo](/assets/images/scp-logo.png)
-
-## [SeaChange Pharmaceuticals, Inc](https://www.linkedin.com/company/seachange-pharmaceuticals-inc) has ceased operations.
-
 <iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=SeaChange+Pharmaceuticals,+Inc&amp;fb=1&amp;gl=us&amp;hq=seachange+pharmaceuticals&amp;cid=1375361792085184662&amp;t=m&amp;ie=UTF8&amp;ll=37.323076,-121.945367&amp;spn=0.016381,0.027423&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
 <br />
 <small><a href="https://maps.google.com/maps?q=SeaChange+Pharmaceuticals,+Inc&amp;fb=1&amp;gl=us&amp;hq=seachange+pharmaceuticals&amp;cid=1375361792085184662&amp;t=m&amp;ie=UTF8&amp;ll=37.323076,-121.945367&amp;spn=0.016381,0.027423&amp;z=15&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
-<br />
-
-info@seachangepharma.com
