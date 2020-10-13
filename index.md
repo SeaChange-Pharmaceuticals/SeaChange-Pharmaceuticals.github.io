@@ -1,3 +1,21 @@
-<iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=SeaChange+Pharmaceuticals,+Inc&amp;fb=1&amp;gl=us&amp;hq=seachange+pharmaceuticals&amp;cid=1375361792085184662&amp;t=m&amp;ie=UTF8&amp;ll=37.323076,-121.945367&amp;spn=0.016381,0.027423&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
+---
+layout: default
+---
+
+<img src="/assets/images/scp-logo.png" alt="SeaChange Logo" width="400"/>
+
 <br />
-<small><a href="https://maps.google.com/maps?q=SeaChange+Pharmaceuticals,+Inc&amp;fb=1&amp;gl=us&amp;hq=seachange+pharmaceuticals&amp;cid=1375361792085184662&amp;t=m&amp;ie=UTF8&amp;ll=37.323076,-121.945367&amp;spn=0.016381,0.027423&amp;z=15&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+# SeaChange has ceased operations.
+
+<br />
+We thank our colleagues, clients, and customers for a terrific decade of partnerships.
+
+Please direct closing inquiries to [info@seachangepharma.com](mailto:info@seachangepharma.com).
+
+<br />
+
+<div style="text-align: center;">
+  <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+  <script type="IN/FollowCompany" data-id="745043" data-counter="right"></script>
+</div>

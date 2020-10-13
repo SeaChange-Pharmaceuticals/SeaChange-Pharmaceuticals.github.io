@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
-title: SeaChange Pharmaceuticals, Inc
-description: [SeaChange Pharmaceuticals, Inc](https://www.linkedin.com/company/seachange-pharmaceuticals-inc) has ceased operations.
-logo: /assets/images/scp-logo.png
-show_downloads: false
+title: SeaChange Pharmaceuticals
+description: "SeaChange Pharmaceuticals, Inc has ceased operations."
+google_analytics:
